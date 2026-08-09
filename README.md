@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Jéssica 👋
 
-### Direito, Tecnologia e a vontade de transformar problemas reais em soluções melhores
+### Advogada com OAB e tudo ⚖️ — nerd por vocação 🤓 e estudante de Gestão de TI
 
 ![Direito](https://img.shields.io/badge/Direito-1F4E78?style=for-the-badge)
 ![Gestão de TI](https://img.shields.io/badge/Gestão_de_TI-0B7285?style=for-the-badge)
@@ -21,6 +21,16 @@ Na infância, eu queria o **Direito**. Na adolescência, nasceu também o intere
 Depois dos 30, decidi retomar aquele desejo da adolescência. Hoje curso **Tecnologia em Gestão da Tecnologia da Informação** e busco unir minhas duas paixões: o olhar humano e crítico do Direito com a capacidade da Tecnologia de organizar processos, transformar dados e construir soluções.
 
 > **Não estou começando do zero. Estou conectando trajetórias.**
+
+## O que o Direito acrescenta à Tecnologia
+
+Minha formação jurídica também faz parte da profissional de tecnologia que estou construindo. Ela fortalece competências importantes como:
+
+- análise crítica e interpretação de requisitos;
+- pesquisa, organização e documentação cuidadosa;
+- visão de riscos, normas e conformidade;
+- atenção à ética, à privacidade e ao impacto das soluções;
+- capacidade de traduzir problemas complexos em caminhos possíveis.
 
 ## O que estou construindo agora
 
