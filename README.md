@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Jéssica 👋
 
-### Advogada com OAB e tudo ⚖️ — nerd por vocação 🤓 e estudante de Gestão de TI
+### Advogada 'com OAB e tudo' ⚖️ — nerd por vocação 🤓 e estudante de Gestão de TI
 
 ![Direito](https://img.shields.io/badge/Direito-1F4E78?style=for-the-badge)
 ![Gestão de TI](https://img.shields.io/badge/Gestão_de_TI-0B7285?style=for-the-badge)
